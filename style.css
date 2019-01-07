@@ -1,0 +1,25 @@
+body {
+    background-color: darkgoldenrod;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    background-color: aquamarine;
+}
+
+h2 {
+    background-color: chartreuse;
+}
+
+#text-a {
+    background-color: darkturquoise;
+}
+
+#text-b {
+    background-color: darkgreen;
+}
+
+ul {
+    background-color: black;
+}

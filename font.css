@@ -1,0 +1,16 @@
+h1 {
+    color: darkgoldenrod;
+}
+h2 {
+    color: blue;
+}
+#text-a {
+    color: brown;
+}
+#text-b {
+    color: white;
+}
+li {
+    color: aliceblue;
+    list-style-type: none;
+}
